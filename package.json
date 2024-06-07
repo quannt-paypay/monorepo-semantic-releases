@@ -14,7 +14,8 @@
   "scripts": {
     "start": "turbo start",
     "prepare": "husky install",
-    "release": "turbo release --concurrency=1"
+    "release": "turbo release --concurrency=1",
+    "release:pre": "turbo release:pre --concurrency=1"
   },
   "devDependencies": {
     "@commitlint/cli": "17.6.1",

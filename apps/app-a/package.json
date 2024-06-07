@@ -4,7 +4,8 @@
   "license": "UNLICENSED",
   "scripts": {
     "start": "node index.js",
-    "release": "release-it --only-version"
+    "release": "release-it --only-version",
+    "release:pre": "release-it --preReleaseId=alpha --npm.tag=alpha --github.preRelease"
   },
   "dependencies": {
     "@mono/lib-a": "*"
