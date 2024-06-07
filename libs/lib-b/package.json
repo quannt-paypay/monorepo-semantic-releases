@@ -1,11 +1,12 @@
 {
   "name": "@mono/lib-b",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "release": "release-it --only-version",
-    "release:pre": "release-it --preRelease=alpha"
+    "release:alpha": "release-it --preRelease=alpha",
+    "release:beta": "release-it --preRelease=beta"
   },
   "devDependencies": {
     "@mono/config-release-it": "*",

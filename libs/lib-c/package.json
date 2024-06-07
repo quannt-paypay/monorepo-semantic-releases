@@ -1,11 +1,12 @@
 {
   "name": "@mono/lib-c",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "release": "release-it --only-version",
-    "release:pre": "release-it --preRelease=alpha"
+    "release:alpha": "release-it --preRelease=alpha",
+    "release:beta": "release-it --preRelease=beta"
   },
   "devDependencies": {
     "@mono/config-release-it": "*"
