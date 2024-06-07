@@ -4,7 +4,9 @@
   "license": "MIT",
   "main": ".release-it.js",
   "scripts": {
-    "release": "release-it --only-version"
+    "release": "release-it --only-version",
+    "release:alpha": "release-it --preRelease=alpha",
+    "release:beta": "release-it --preRelease=beta"
   },
   "devDependencies": {
     "@b12k/mvm": "0.0.10",

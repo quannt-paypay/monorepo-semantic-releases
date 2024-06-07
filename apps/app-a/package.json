@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node index.js",
     "release": "release-it --only-version",
-    "release:pre": "release-it --preRelease=alpha"
+    "release:alpha": "release-it --preRelease=alpha",
+    "release:beta": "release-it --preRelease=beta"
   },
   "dependencies": {
     "@mono/lib-a": "*"

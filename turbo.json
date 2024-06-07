@@ -8,8 +8,12 @@
       "dependsOn": ["^release"],
       "outputMode": "new-only"
     },
-    "release:pre": {
-      "dependsOn": ["^release:pre"],
+    "release:alpha": {
+      "dependsOn": ["^release:alpha"],
+      "outputMode": "new-only"
+    },
+    "release:beta": {
+      "dependsOn": ["^release:beta"],
       "outputMode": "new-only"
     }
   }
