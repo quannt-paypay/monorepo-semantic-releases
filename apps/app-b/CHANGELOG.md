@@ -1,5 +1,13 @@
 
 
+## [0.5.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/app-b-v0.4.0...@mono/app-b-v0.5.0) (2024-06-07)
+
+
+### Features
+
+* **config-release-it:** released version v0.1.1 [no ci] ([368b96f](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/368b96ff78be2b87952648add6ad93d0490f183f))
+* **lib-b:** released version v0.4.0 [no ci] ([4a96a4b](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/4a96a4ba077226f04771498d52fbee205846ca77))
+
 ## [0.4.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-b-v0.3.0...@mono/app-b-v0.4.0) (2023-05-01)
 
 
