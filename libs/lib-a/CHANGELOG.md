@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-a-v0.3.0...@mono/lib-a-v0.4.0) (2024-06-07)
+
+
+### Features
+
+* **lib-a:** add new sentence ([6af996f](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/6af996f273bd23fcd06350a154024acc4c79a09a))
+
 ## [0.3.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-a-v0.2.0...@mono/lib-a-v0.3.0) (2024-06-07)
 
 
