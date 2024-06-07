@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.3.0...@mono/lib-c-v0.4.0) (2024-06-07)
+
+
+### Features
+
+* **config-release-it:** released version v0.1.2 [no ci] ([a847118](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/a84711814f2e20eb0ac8bd8d2e4e10a616ce54a8))
+
 ## [0.3.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.2.0...@mono/lib-c-v0.3.0) (2024-06-07)
 
 
