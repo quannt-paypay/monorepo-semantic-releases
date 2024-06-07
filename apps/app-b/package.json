@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js",
     "release": "release-it --only-version",
-    "release:pre": "release-it premajor --preReleaseId=alpha --npm.tag=alpha --github.preRelease"
+    "release:pre": "release-it --preRelease=alpha"
   },
   "dependencies": {
     "@mono/lib-b": "*"
