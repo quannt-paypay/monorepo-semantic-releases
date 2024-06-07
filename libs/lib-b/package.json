@@ -4,7 +4,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "release": "release-it"
+    "release": "release-it --only-version"
   },
   "devDependencies": {
     "@mono/config-release-it": "*",

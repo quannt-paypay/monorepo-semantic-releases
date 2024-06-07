@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "start": "node index.js",
-    "release": "release-it"
+    "release": "release-it --only-version"
   },
   "dependencies": {
     "@mono/lib-a": "*"
