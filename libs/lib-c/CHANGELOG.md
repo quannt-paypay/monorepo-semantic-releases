@@ -1,5 +1,13 @@
 
 
+## [0.6.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.5.0...@mono/lib-c-v0.6.0) (2024-06-07)
+
+
+### Features
+
+* **lib-c:** add mrs ([f8abc2d](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/f8abc2d0157ef095961b3335c3dff55e3feba950))
+* **lib-c:** add son ([f31b630](https://github.com/quannt-paypay/monorepo-semantic-releases/commit/f31b63067036664878cc37b5be93193ef085ceb9))
+
 ## [0.5.0](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.4.3...@mono/lib-c-v0.5.0) (2024-06-07)
 
 
