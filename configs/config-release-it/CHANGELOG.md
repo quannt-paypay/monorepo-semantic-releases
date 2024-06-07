@@ -1,5 +1,7 @@
 
 
+## [0.1.3](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.2...@mono/config-release-it-v0.1.3) (2024-06-07)
+
 ## [0.1.2](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.1...@mono/config-release-it-v0.1.2) (2024-06-07)
 
 ## [0.1.1](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.0...@mono/config-release-it-v0.1.1) (2024-06-07)
