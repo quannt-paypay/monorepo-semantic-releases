@@ -1,5 +1,7 @@
 
 
+## [0.4.3](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.4.2...@mono/lib-c-v0.4.3) (2024-06-07)
+
 ## [0.4.2](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.4.1...@mono/lib-c-v0.4.2) (2024-06-07)
 
 ## [0.4.1](https://github.com/quannt-paypay/monorepo-semantic-releases/compare/@mono/lib-c-v0.4.0...@mono/lib-c-v0.4.1) (2024-06-07)
