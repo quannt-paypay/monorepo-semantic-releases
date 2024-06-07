@@ -8,7 +8,7 @@
       "dependsOn": ["^release"],
       "outputMode": "new-only"
     },
-    "release-pre": {
+    "release:pre": {
       "dependsOn": ["^release:pre"],
       "outputMode": "new-only"
     }
